@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i6x9fGanyCA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\Boggle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\neoov\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\neoov\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

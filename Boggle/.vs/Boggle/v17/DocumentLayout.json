@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neoov\\source\\repos\\Boggle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|c:\\users\\neoov\\source\\repos\\boggle\\boggle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|solutionrelative:boggle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|c:\\users\\neoov\\source\\repos\\boggle\\boggle\\testsboggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|solutionrelative:boggle\\testsboggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|c:\\users\\neoov\\source\\repos\\boggle\\boggle\\plateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|solutionrelative:boggle\\plateau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|c:\\users\\neoov\\source\\repos\\boggle\\boggle\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|solutionrelative:boggle\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|c:\\users\\neoov\\source\\repos\\boggle\\boggle\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|solutionrelative:boggle\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|c:\\users\\neoov\\source\\repos\\boggle\\boggle\\nuagedemots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|solutionrelative:boggle\\nuagedemots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|c:\\users\\neoov\\source\\repos\\boggle\\boggle\\gestionscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|solutionrelative:boggle\\gestionscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|c:\\users\\neoov\\source\\repos\\boggle\\boggle\\dictionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|solutionrelative:boggle\\dictionnaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|c:\\users\\neoov\\source\\repos\\boggle\\boggle\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|solutionrelative:boggle\\de.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|c:\\users\\neoov\\source\\repos\\boggle\\boggle\\boggle.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8089C8CA-B777-42DF-A37F-68D6AD884B3C}|Boggle\\Boggle.csproj|solutionrelative:boggle\\boggle.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestsBoggle.cs",
+              "DocumentMoniker": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\TestsBoggle.cs",
+              "RelativeDocumentMoniker": "Boggle\\TestsBoggle.cs",
+              "ToolTip": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\TestsBoggle.cs",
+              "RelativeToolTip": "Boggle\\TestsBoggle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:25:30.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestionScore.cs",
+              "DocumentMoniker": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\GestionScore.cs",
+              "RelativeDocumentMoniker": "Boggle\\GestionScore.cs",
+              "ToolTip": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\GestionScore.cs",
+              "RelativeToolTip": "Boggle\\GestionScore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T00:43:41.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Boggle",
+              "DocumentMoniker": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\Boggle.csproj",
+              "RelativeDocumentMoniker": "Boggle\\Boggle.csproj",
+              "ToolTip": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\Boggle.csproj",
+              "RelativeToolTip": "Boggle\\Boggle.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T23:55:57.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NuageDeMots.cs",
+              "DocumentMoniker": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\NuageDeMots.cs",
+              "RelativeDocumentMoniker": "Boggle\\NuageDeMots.cs",
+              "ToolTip": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\NuageDeMots.cs",
+              "RelativeToolTip": "Boggle\\NuageDeMots.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAwwBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T23:54:39.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jeu.cs",
+              "DocumentMoniker": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\Jeu.cs",
+              "RelativeDocumentMoniker": "Boggle\\Jeu.cs",
+              "ToolTip": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\Jeu.cs",
+              "RelativeToolTip": "Boggle\\Jeu.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAADgv9gAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:56:58.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Plateau.cs",
+              "DocumentMoniker": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\Plateau.cs",
+              "RelativeDocumentMoniker": "Boggle\\Plateau.cs",
+              "ToolTip": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\Plateau.cs",
+              "RelativeToolTip": "Boggle\\Plateau.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:56:44.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dictionnaire.cs",
+              "DocumentMoniker": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\Dictionnaire.cs",
+              "RelativeDocumentMoniker": "Boggle\\Dictionnaire.cs",
+              "ToolTip": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\Dictionnaire.cs",
+              "RelativeToolTip": "Boggle\\Dictionnaire.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:56:27.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "De.cs",
+              "DocumentMoniker": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\De.cs",
+              "RelativeDocumentMoniker": "Boggle\\De.cs",
+              "ToolTip": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\De.cs",
+              "RelativeToolTip": "Boggle\\De.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:56:11.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Joueur.cs",
+              "DocumentMoniker": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\Joueur.cs",
+              "RelativeDocumentMoniker": "Boggle\\Joueur.cs",
+              "ToolTip": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\Joueur.cs",
+              "RelativeToolTip": "Boggle\\Joueur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:55:49.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\Program.cs",
+              "RelativeDocumentMoniker": "Boggle\\Program.cs",
+              "ToolTip": "C:\\Users\\neoov\\source\\repos\\Boggle\\Boggle\\Program.cs",
+              "RelativeToolTip": "Boggle\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:55:11.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
